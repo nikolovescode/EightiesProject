@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3367.262" height="1101" viewBox="0 0 3367.262 1101">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#300090"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="0.669" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9865fd"/>
+      <stop offset="0" stop-color="#6545b1"/>
+      <stop offset="0.519" stop-color="#734ad3" stop-opacity="0.349"/>
+      <stop offset="1" stop-color="#090256" stop-opacity="0.51"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect width="2941" height="1101" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="bg" transform="translate(256.863 -60)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="3121" height="710" transform="translate(-46 155)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="237.5" cy="240.5" rx="237.5" ry="240.5" transform="translate(1862 295)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_2" data-name="Path 2" d="M4180.262,791.473,4077.337,666.266l-43.065,43.22-65.958-121.8h-36.438l-87.452-90.368L3713.488,623.046,3494.616,497.315,3214.041,623.046l-160.328-188.6-182.191,188.6L2740.343,398.182,2587.3,497.315l-153.04-23.9L2266.888,434.45l-142.352,96.5-157.39-33.635L1872.4,587.684l-90.437-90.368L1670,623.046l-111.969-35.362-206.713,78.582-159.341-78.582-142.115,78.582L941.3,691.026l-80.932,18.46H813v81.987Z" transform="translate(-1069.863 73.528)" fill="#030227" style="mix-blend-mode: difference;isolation: isolate"/>
+    <path id="Path_1" data-name="Path 1" d="M819.388,954.826,798,775.345l152.855,19.662,78.139-100.3,58.332,100.3,70-55.167,110.65,55.167L1429.541,529.2l202.217,265.807,151.663-100.3,178.885,45.137L2106.191,529.2,2312.3,343.636l77.776,60.183,105,95.289L2685.622,694.7l132.219-115.35,85.554,115.35,81.665-115.35,101.109,160.487,124.442-160.487,163.329,215.655,143.885-100.3,128.33,100.3,171.107,55.168h42.776V954.826Z" transform="translate(-901.838 -24)"/>
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(0 60)" opacity="0.02" clip-path="url(#clip-path)">
+      <g transform="translate(0 -60)">
+        <rect id="Rectangle_2" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 -24)">
+        <rect id="Rectangle_2-2" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 12)">
+        <rect id="Rectangle_2-3" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 48)">
+        <rect id="Rectangle_2-4" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 84)">
+        <rect id="Rectangle_2-5" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 120)">
+        <rect id="Rectangle_2-6" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 156)">
+        <rect id="Rectangle_2-7" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 192)">
+        <rect id="Rectangle_2-8" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 228)">
+        <rect id="Rectangle_2-9" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 264)">
+        <rect id="Rectangle_2-10" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 300)">
+        <rect id="Rectangle_2-11" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 336)">
+        <rect id="Rectangle_2-12" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 372)">
+        <rect id="Rectangle_2-13" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 408)">
+        <rect id="Rectangle_2-14" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 444)">
+        <rect id="Rectangle_2-15" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 480)">
+        <rect id="Rectangle_2-16" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 516)">
+        <rect id="Rectangle_2-17" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 552)">
+        <rect id="Rectangle_2-18" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 588)">
+        <rect id="Rectangle_2-19" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 624)">
+        <rect id="Rectangle_2-20" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 660)">
+        <rect id="Rectangle_2-21" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 696)">
+        <rect id="Rectangle_2-22" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 732)">
+        <rect id="Rectangle_2-23" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 768)">
+        <rect id="Rectangle_2-24" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 804)">
+        <rect id="Rectangle_2-25" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 840)">
+        <rect id="Rectangle_2-26" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 876)">
+        <rect id="Rectangle_2-27" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 912)">
+        <rect id="Rectangle_2-28" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 948)">
+        <rect id="Rectangle_2-29" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 984)">
+        <rect id="Rectangle_2-30" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+      <g transform="translate(0 1020)">
+        <rect id="Rectangle_2-31" data-name="Rectangle 2" width="2941" height="27" transform="translate(0 201)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="919" height="792.001" viewBox="0 0 919 792.001">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.442" y1="-0.071" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0915bb"/>
+      <stop offset="0.438" stop-color="#5964ff" stop-opacity="0.984"/>
+      <stop offset="0.489" stop-color="#0011fc" stop-opacity="0.984"/>
+      <stop offset="1" stop-color="#6f00ff" stop-opacity="0.969"/>
+      <stop offset="1" stop-color="gray"/>
+    </linearGradient>
+    <filter id="triangle" x="0" y="0" width="919" height="792.001" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13" result="blur"/>
+      <feFlood flood-color="#0800ff"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#triangle)">
+    <path id="triangle-2" data-name="triangle" d="M-392.5,804h0L-813,90H28L-392.5,804ZM-763,123.024l370.5,629.732L-22,123.024Z" transform="translate(852 -54)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
